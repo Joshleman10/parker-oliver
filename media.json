@@ -1,0 +1,32 @@
+[
+    {
+        "audio": [
+        {
+                "name":"Chariot",
+                "source":"../media/Chariot.mp3"
+        },
+        {
+            "name": "Imperfect Man",
+            "source": "../media/Imperfect Man.mp3"
+        },
+        {
+            "name":"One of a Kind",
+            "source":"../media/One of a kind.mp3"
+        },
+        {
+            "name":"Run Away",
+            "source":"../media/Run Away.mp3"
+        },
+        {
+            "name": "Will You",
+            "source": "../media/Will You.mp3"
+        }
+        ]
+    },
+    {
+        "videos": []
+    },
+    {
+        "pics": []
+    }
+]
