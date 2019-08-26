@@ -29,3 +29,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+@media screen and (max-width: 800px) {
+  .card-header {
+    background-color:black;
+  }
+}
